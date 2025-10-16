@@ -1,5 +1,4 @@
-# Login-and-banner-using-HTML-CSS
-Login and banner using HTM# Banner Collection
+# Banner Collection
 
 A collection of responsive, modern banners built with HTML and CSS for various use cases including food delivery, travel, and profile sections.
 
@@ -20,11 +19,11 @@ An immersive full-width banner showcasing travel destinations.
 - ![abc](/Screenshot%202025-06-11%20175103.png)
 
 ### 3. Food Search Banner
-A search-focused banner for restaurant discovery platforms.
-- **Features**: Brand logo, search bar with dropdown, location selector
+A search-focused banner for restaurant discovery platf![abc](/Screenshot%202025-06-11%20175125.png)orms.
+- **Features**: Brand logo, search bar with dropdown, location selector![abc](/Screenshot%202025-06-11%20175103.png)
 - **Use Case**: Food ordering platforms, restaurant directories
 - **Key Elements**: City dropdown, search functionality, food imagery background
-- ![abc](/Screenshot%202025-06-11%20175125.png)
+- 
 
 ### 4. Profile Header Banner
 A professional profile banner with mountain scenery and user information.
@@ -32,6 +31,14 @@ A professional profile banner with mountain scenery and user information.
 - **Use Case**: Professional profiles, portfolio websites, team pages
 - **Key Elements**: Layered mountain imagery, centered profile layout, professional typography
 - ![abc](/Screenshot%202025-06-11%20175140.png)
+
+### 5. Login Section
+A clean and modern authentication interface for user login.
+- **Features**: Email and password inputs, show/hide password toggle, sign-up link, password recovery
+- **Use Case**: Web applications, SaaS platforms, member portals
+- **Key Elements**: Branded logo header, rounded input fields, primary action button, footer links, terms agreement
+- ![abc](/Screenshot%202025-10-16%20164212.png)
+ 
 
 ## 🚀 Features
 
@@ -49,6 +56,7 @@ banners/
 ├── travel-hero-banner.html
 ├── food-search-banner.html
 ├── profile-banner.html
+├── login-section.html
 └── styles/
     └── styles.css
 ```
@@ -115,4 +123,6 @@ Founder & CEO at Codekaro
 
 ---
 
-⭐ If you found this helpful, please give it a star!L CSS
+⭐ If you found this helpful, please give it a star!
+
+
